@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         limas = findViewById(R.id.limas);
         kerucut = findViewById(R.id.kerucut);
 
+
         limas.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
